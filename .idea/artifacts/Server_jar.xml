@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Server.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Server" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="file-copy" path="$PROJECT_DIR$/libs/c3p0-0.9.5.2.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/libs/mchange-commons-java-0.2.11.jar" />
+        <element id="file-copy" path="$PROJECT_DIR$/libs/mysql-connector-java-5.1.47.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

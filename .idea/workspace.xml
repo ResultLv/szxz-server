@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Server:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5987083d-7c84-4def-8802-ba8168cfb1dd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1210">
+              <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
+              <folding>
+                <element signature="docComment;method#getID#0;class#SocketThread#0" />
+                <element signature="method#getID#0;class#SocketThread#0" />
+                <element signature="e#695#805#1" />
+                <element signature="docComment;method#timming#0;class#SocketThread#0" />
+                <element signature="method#timming#0;class#SocketThread#0" />
+                <element signature="method#byteToHex#0;class#SocketThread#0" />
+                <element signature="docComment;method#main#0;class#Server#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/server/DbHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3410">
+              <caret line="220" selection-start-line="220" selection-end-line="220" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#DbHandler#0;class#DbHandler#0" />
+                <element signature="method#DbHandler#0;class#DbHandler#0" />
+                <element signature="docComment;method#addData#0;class#DbHandler#0" />
+                <element signature="method#addData#0;class#DbHandler#0" />
+                <element signature="docComment;method#hasIpChanged#0;class#DbHandler#0" />
+                <element signature="e#2742#2817#0" />
+                <element signature="docComment;method#excuteInsert#0;class#DbHandler#0" />
+                <element signature="docComment;method#insert#0;class#DbHandler#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+              <folding>
+                <element signature="e#592#597#0" expanded="true" />
+                <element signature="e#629#634#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/server/DbUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>autocommit</find>
+      <find>3D</find>
+      <find>Sys</find>
+      <find>conn</find>
+      <find>root</find>
+      <find>print</find>
+      <find>System.out.print</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/server/DbHandler.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/client/TestIP.java" />
+        <option value="$PROJECT_DIR$/src/com/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/server/DbHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/c3p0-config.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="Server_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Server_single" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_single" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="Server.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555652972936" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20400943" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.Client" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.Server" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.client.TestIP" />
+      <module name="Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.TestIP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.TestIP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5987083d-7c84-4def-8802-ba8168cfb1dd" name="Default Changelist" comment="" />
+      <created>1542711895446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542711895446</updated>
+      <workItem from="1542711896674" duration="107000" />
+      <workItem from="1542712006727" duration="1000" />
+      <workItem from="1542713176194" duration="146000" />
+      <workItem from="1542763014300" duration="2400000" />
+      <workItem from="1542779336228" duration="24000" />
+      <workItem from="1542804698792" duration="2805000" />
+      <workItem from="1542861233297" duration="37000" />
+      <workItem from="1542870156979" duration="3041000" />
+      <workItem from="1542875457945" duration="1620000" />
+      <workItem from="1542901025869" duration="257000" />
+      <workItem from="1542935752650" duration="19000" />
+      <workItem from="1542939682458" duration="599000" />
+      <workItem from="1543023557099" duration="7000" />
+      <workItem from="1543023584701" duration="59000" />
+      <workItem from="1543023660474" duration="554000" />
+      <workItem from="1543024415370" duration="4000" />
+      <workItem from="1543041202879" duration="117000" />
+      <workItem from="1543044080630" duration="32000" />
+      <workItem from="1543235405683" duration="1307000" />
+      <workItem from="1543243089532" duration="1677000" />
+      <workItem from="1543394818858" duration="7507000" />
+      <workItem from="1543404831033" duration="1051000" />
+      <workItem from="1543494583483" duration="442000" />
+      <workItem from="1543554793844" duration="818000" />
+      <workItem from="1543739044989" duration="4000" />
+      <workItem from="1544075185689" duration="935000" />
+      <workItem from="1544410868921" duration="45000" />
+      <workItem from="1544666936501" duration="484000" />
+      <workItem from="1544667517774" duration="4345000" />
+      <workItem from="1544871803786" duration="3385000" />
+      <workItem from="1544875932542" duration="19000" />
+      <workItem from="1545033513158" duration="58000" />
+      <workItem from="1545099262195" duration="4026000" />
+      <workItem from="1545288756089" duration="711000" />
+      <workItem from="1545390166617" duration="985000" />
+      <workItem from="1545567226556" duration="660000" />
+      <workItem from="1545786664815" duration="3417000" />
+      <workItem from="1545793859250" duration="598000" />
+      <workItem from="1545811795657" duration="585000" />
+      <workItem from="1545879594208" duration="1934000" />
+      <workItem from="1546400126608" duration="824000" />
+      <workItem from="1546419427666" duration="174000" />
+      <workItem from="1546483593926" duration="316000" />
+      <workItem from="1546937021916" duration="3053000" />
+      <workItem from="1547534526137" duration="667000" />
+      <workItem from="1550638929040" duration="13355000" />
+      <workItem from="1550653028569" duration="2774000" />
+      <workItem from="1550712587655" duration="1192000" />
+      <workItem from="1552548778663" duration="8000" />
+      <workItem from="1553509135028" duration="6673000" />
+      <workItem from="1554687487653" duration="39000" />
+      <workItem from="1554967740266" duration="24000" />
+      <workItem from="1555296614002" duration="1563000" />
+      <workItem from="1555549989890" duration="3998000" />
+      <workItem from="1555642340038" duration="3910000" />
+      <workItem from="1555916823101" duration="598000" />
+      <workItem from="1555936733683" duration="9000" />
+      <workItem from="1556084354995" duration="24000" />
+      <workItem from="1556096740616" duration="647000" />
+      <workItem from="1556112744128" duration="368000" />
+      <workItem from="1556178800845" duration="1061000" />
+      <workItem from="1562680711766" duration="230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="827" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.22961374" />
+      <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.20529328" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32789117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3197279" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292517" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4422">
+          <caret line="216" column="6" lean-forward="true" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Server/com/server/Server.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="582" column="65" lean-forward="true" selection-start-line="582" selection-start-column="65" selection-end-line="582" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/client/TestIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/Server_jar/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="115" column="49" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="49" />
+          <folding>
+            <element signature="docComment;method#getID#0;class#SocketThread#0" />
+            <element signature="method#getID#0;class#SocketThread#0" />
+            <element signature="e#695#805#1" />
+            <element signature="docComment;method#timming#0;class#SocketThread#0" />
+            <element signature="method#timming#0;class#SocketThread#0" />
+            <element signature="method#byteToHex#0;class#SocketThread#0" />
+            <element signature="docComment;method#main#0;class#Server#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/server/DbHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#DbHandler#0;class#DbHandler#0" />
+            <element signature="method#DbHandler#0;class#DbHandler#0" />
+            <element signature="docComment;method#addData#0;class#DbHandler#0" />
+            <element signature="method#addData#0;class#DbHandler#0" />
+            <element signature="docComment;method#hasIpChanged#0;class#DbHandler#0" />
+            <element signature="e#2742#2817#0" />
+            <element signature="docComment;method#excuteInsert#0;class#DbHandler#0" />
+            <element signature="docComment;method#insert#0;class#DbHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="59" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <folding>
+            <element signature="e#592#597#0" expanded="true" />
+            <element signature="e#629#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/server/DbUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>Server:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20400943" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20400943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20400943" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20400943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
