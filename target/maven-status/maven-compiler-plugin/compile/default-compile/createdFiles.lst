@@ -1,0 +1,7 @@
+com\client\Client.class
+com\client\TestIP.class
+com\server\DbHandler.class
+com\server\SocketThread.class
+com\client\ClientSocket.class
+com\server\Server.class
+com\server\DbUtils.class

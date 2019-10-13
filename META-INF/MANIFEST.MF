@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: libs/c3p0-0.9.5.2.jar libs/mchange-commons-java-0.2.11.jar
-  libs/mysql-connector-java-5.1.47.jar
-Main-Class: com.server.Server
-
