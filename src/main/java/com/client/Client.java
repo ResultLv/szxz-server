@@ -13,11 +13,11 @@ class ClientSocket implements Runnable{
     public void run() {
         try{
             Socket socket = new Socket(IP, 3333);
-            OutputStream outputStream=socket.getOutputStream();//»ñÈ¡Ò»¸öÊä³öÁ÷£¬Ïò·şÎñ¶Ë·¢ËÍĞÅÏ¢
-            PrintStream printStream=new PrintStream(outputStream);//½«Êä³öÁ÷°ü×°³É´òÓ¡Á÷
-            InputStream inputStream=socket.getInputStream();//»ñÈ¡Ò»¸öÊäÈëÁ÷£¬½ÓÊÕ·şÎñ¶ËµÄĞÅÏ¢
-            InputStreamReader inputStreamReader=new InputStreamReader(inputStream);//°ü×°³É×Ö·ûÁ÷£¬Ìá¸ßĞ§ÂÊ
-            BufferedReader bufferedReader=new BufferedReader(inputStreamReader);//»º³åÇø
+            OutputStream outputStream=socket.getOutputStream();//è·å–ä¸€ä¸ªè¾“å‡ºæµï¼Œå‘æœåŠ¡ç«¯å‘é€ä¿¡æ¯
+            PrintStream printStream=new PrintStream(outputStream);//å°†è¾“å‡ºæµåŒ…è£…æˆæ‰“å°æµ
+            InputStream inputStream=socket.getInputStream();//è·å–ä¸€ä¸ªè¾“å…¥æµï¼Œæ¥æ”¶æœåŠ¡ç«¯çš„ä¿¡æ¯
+            InputStreamReader inputStreamReader=new InputStreamReader(inputStream);//åŒ…è£…æˆå­—ç¬¦æµï¼Œæé«˜æ•ˆç‡
+            BufferedReader bufferedReader=new BufferedReader(inputStreamReader);//ç¼“å†²åŒº
 
             List<String> info = new ArrayList<>();
             for (int i = 0; i < 1; i++) {
@@ -54,7 +54,7 @@ class ClientSocket implements Runnable{
 //            while((temp = bufferedReader.readLine()) != null){
 //                System.out.println(temp);
 //            }
-                //¹Ø±ÕÏà¶ÔÓ¦µÄ×ÊÔ´
+                //å…³é—­ç›¸å¯¹åº”çš„èµ„æº
             bufferedReader.close();
             inputStream.close();
             printStream.close();
@@ -67,14 +67,14 @@ class ClientSocket implements Runnable{
 }
 
 /**
- * Socket¿Í»§¶Ë
+ * Socketå®¢æˆ·ç«¯
  */
 public class Client{
 
     /**
-     * ×Ö½Ú×ªÊ®Áù½øÖÆ
-     * @param b ĞèÒª½øĞĞ×ª»»µÄbyte×Ö½Ú
-     * @return  ×ª»»ºóµÄHex×Ö·û´®
+     * å­—èŠ‚è½¬åå…­è¿›åˆ¶
+     * @param b éœ€è¦è¿›è¡Œè½¬æ¢çš„byteå­—èŠ‚
+     * @return  è½¬æ¢åçš„Hexå­—ç¬¦ä¸²
      */
     public static String byteToHex(byte b){
         String hex = Integer.toHexString(b & 0xFF);
