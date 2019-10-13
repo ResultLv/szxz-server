@@ -7,41 +7,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5987083d-7c84-4def-8802-ba8168cfb1dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/libs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/c3p0-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/mchange-commons-java-0.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/mysql-connector-java-5.1.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Server_jar/Server.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Server_jar/libs/c3p0-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Server_jar/libs/mchange-commons-java-0.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Server_jar/libs/mysql-connector-java-5.1.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Server_jar/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/client/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/client/ClientSocket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/client/TestIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/server/DbHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/server/DbUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Server/com/server/SocketThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/client/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/client/TestIP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/server/DbHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/server/DbUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/server/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,17 +29,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>autocommit</find>
-      <find>3D</find>
-      <find>Sys</find>
-      <find>conn</find>
-      <find>root</find>
-      <find>print</find>
-      <find>System.out.print</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555652972936" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -92,12 +56,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20400943" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\苏州协同中心\szxz-server" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\苏州协同中心\szxz-server\src\main\resources" />
       <recent name="E:\IdeaProjects\苏州协同中心\szxz-server\src\main\java\com" />
@@ -243,7 +210,10 @@
       <workItem from="1556112744128" duration="368000" />
       <workItem from="1556178800845" duration="1061000" />
       <workItem from="1562680711766" duration="230000" />
-      <workItem from="1570944402926" duration="4068000" />
+      <workItem from="1570944402926" duration="7446000" />
+      <workItem from="1570954738801" duration="201000" />
+      <workItem from="1570954999956" duration="134000" />
+      <workItem from="1570955151117" duration="181000" />
     </task>
     <servers />
   </component>
@@ -255,7 +225,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
